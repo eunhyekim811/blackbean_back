@@ -8,7 +8,7 @@
 
 모든 코드는 **src** 안에 위치하며, **resources**는 정적 파일들, 즉 프론트 페이지를 위한 공간입니다.
 
-**resourcse/application.properties**는 설정 값들을 적어두는 파일로 노출시키지 않도록 합니다.
+**resourcse/application.properties**는 설정 값들을 적어두는 파일로 노출시키지 않도록 합니다. (현재는 레포에 존재, 후에 제거 및 연결 끊기)
 
 **build.gradle**은 의존성을 추가해 필요한 기능들을 추가하는 장소입니다.
 
